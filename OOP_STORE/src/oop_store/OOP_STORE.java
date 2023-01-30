@@ -21,6 +21,7 @@ public class OOP_STORE {
         
         System.out.println("sss");
         System.out.println("ddd");
+        System.out.println("ggg");
         
     }
     
