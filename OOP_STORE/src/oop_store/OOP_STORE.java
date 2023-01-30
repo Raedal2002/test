@@ -24,6 +24,7 @@ public class OOP_STORE {
         System.out.println("ggg");
         System.out.println("bbb");
         System.out.println("ahmed");
+        System.out.println("osama");
     }
     
 }
